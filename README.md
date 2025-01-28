@@ -54,4 +54,4 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 ## Additional information
 
 * Helping 1000+ Bioinformatics students and professionals stay through through short videos, newsletters and value added content on LinkedIn Ask me about getting started with Bioinformatics.
-* Connect with me on LinkedIn to learn more : https://www.linkedin.com/in/anooraagbasu/
+* Connect to learn more : https://www.linkedin.com/in/anooraagbasu/
