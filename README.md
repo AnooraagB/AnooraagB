@@ -38,6 +38,10 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 * Comprehensive genomics and transcriptomics data analysis of patient high-throughput data
 * Metabolomic analysis using MAVEN
 
+## Bioinformatics leadership experience
+
+* President of Praedictio - Bioinformaticss Club of Amity Institute of Biotechnology (2022-2023)
+
 ## Education
 
 * Master of Science in Bioinformatics | The University of Edinburgh | 2024-2025
