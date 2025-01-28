@@ -49,8 +49,8 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 
 ## Bioinformatics online courses
 
-* *DataCamp* Introduction to SQL (2024)
 * *DataCamp* Intermediate SQL (2024)
+* *DataCamp* Introduction to SQL (2024)
 * *The Johns Hopkins University* Python for Genomic Data Science (2023)
 * *The Johns Hopkins University* Introduction to Genomic Technologies (2023)
   
