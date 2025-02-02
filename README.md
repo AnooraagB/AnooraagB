@@ -15,7 +15,7 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 * Alignment - Basic Local Alignment Search Tool (BLAST), HISAT2
 * File Format Handling - SAMTools, PICARD, GATK
 * Annotation - ANNOVAR
-* Softwares - elMAVEN, CytoScape
+* Softwares - El-MAVEN, CytoScape
 * Data Access - SRA Toolkit
 * Container Technologies - Docker
 
@@ -53,7 +53,6 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 * *DataCamp* Introduction to SQL (2024)
 * *The Johns Hopkins University* Python for Genomic Data Science (2023)
 * *The Johns Hopkins University* Introduction to Genomic Technologies (2023)
-  
 
 ## Additional information
 
