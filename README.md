@@ -40,6 +40,7 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 
 ## Bioinformatics leadership experience
 
+* Co-President and Co-Founder of BITSoc - Bioinformatics and Biotechnology Society of The University of Edinburgh (2025-Present)
 * President of Praedictio - Bioinformaticss Club of Amity Institute of Biotechnology (2022-2023)
 
 ## Education
@@ -56,5 +57,5 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 
 ## Additional information
 
-* Helping 1000+ Bioinformatics students and professionals stay through through short videos, newsletters and value added content on LinkedIn.
+* Helping 1500+ Bioinformatics students and professionals stay through through short videos, newsletters and value added content on LinkedIn.
 * Ask me about getting started with Bioinformatics and consider connecting to learn more : https://www.linkedin.com/in/anooraagbasu/
