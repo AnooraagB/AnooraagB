@@ -6,6 +6,7 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 
 * Python (Intermediate)
 * R (Intermediate)
+* Unix commmand line (Basic)
 * SQL (Basic)
 
 ## Bioinformatics tools and technologies
