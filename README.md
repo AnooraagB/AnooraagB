@@ -11,11 +11,11 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 ## Bioinformatics tools and technologies
 
 * Quality Control (QC) - FastQC, MultiQC
-* Trimming - Trimmomatics, Cutadapt
+* Trimming - Trimmomatic, Cutadapt
 * Alignment - Basic Local Alignment Search Tool (BLAST), HISAT2
-* File Format Handling - SAMTools, PICARD, GATK
+* File Format Handling - SAMtools, PICARD, GATK
 * Annotation - ANNOVAR
-* Softwares - El-MAVEN, CytoScape
+* Softwares - El-MAVEN, Cytoscape
 * Data Access - SRA Toolkit
 * Container Technologies - Docker
 
@@ -57,5 +57,5 @@ I am Anooraag Basu, a budding professional in Bioinformatics. This GitHub profil
 
 ## Additional information
 
-* Helping 1500+ Bioinformatics students and professionals stay through through short videos, newsletters and value added content on LinkedIn.
+* Helping 1800+ Bioinformatics students and professionals stay through through short videos, newsletters and value added content on LinkedIn.
 * Ask me about getting started with Bioinformatics and consider connecting to learn more : https://www.linkedin.com/in/anooraagbasu/
